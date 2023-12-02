@@ -9,6 +9,12 @@ ul {
   list-style-type: none;
 }
 
+img {
+  background: lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
+  display: block;
+  max-width: 100%;
+}
+
 a {
   text-decoration: none;
 }
