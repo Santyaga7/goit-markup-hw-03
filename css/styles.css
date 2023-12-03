@@ -75,7 +75,6 @@ main {
   text-decoration: none;
   color: #4d5ae5;
   margin-right: 76px;
-  padding-left: 156px;
 }
 
 .logo-grey {
@@ -103,7 +102,6 @@ main {
 .address {
   font-style: normal;
   display: flex;
-  padding-right: 156px;
 }
 
 .address-details {
